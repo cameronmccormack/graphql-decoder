@@ -3,12 +3,8 @@
 ## Installation
 
 ```bash
-git clone git@github.com:cameronmccormack/graphql-decoder.git
-cd graphql-decoder
-npm i -g
+npm i graphql-decoder
 ```
-
-(Will be hosted on npm eventually.)
 
 ## Usage
 
