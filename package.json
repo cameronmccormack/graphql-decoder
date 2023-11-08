@@ -1,6 +1,6 @@
 {
   "name": "graphql-decoder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A utility for decoding a URL GraphQL request to its formatted constituent parts.",
   "main": "index.js",
   "bin": "index.js",
