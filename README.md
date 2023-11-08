@@ -1,5 +1,17 @@
 # GraphQL URL Decoder
 
+## Installation
+
+```bash
+git clone git@github.com:cameronmccormack/graphql-decoder.git
+cd graphql-decoder
+npm i -g
+```
+
+(Will be hosted on npm eventually.)
+
+## Usage
+
 This project is used for extracting and formatting a GraphQL query from a full request URL.
 
 For example:
@@ -18,7 +30,7 @@ Output:
 }
 ```
 
-## Command line arguments
+# Command line arguments
 
 By specifying a relative file path with the `--outputFile` named argument, the formatted GraphQL query can be saved to a file, e.g.
 
